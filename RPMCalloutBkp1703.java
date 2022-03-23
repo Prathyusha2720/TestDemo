@@ -21,6 +21,9 @@ RPMSample.cmp
     </div>
 </aura:component>
 
+
+<!-- Code changes to master branch directly bt team lead -->
+
 ***********************
 RPMSampleController.js
 ***********************
